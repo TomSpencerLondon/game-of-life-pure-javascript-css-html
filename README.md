@@ -21,4 +21,5 @@ Learn about the web sound API and create a generative music app from the Game of
 
 Here are a few of the other possible algorithms:
 
-[Bonus-Algorithms (1).pdf](https://github.com/TomSpencerLondon/game-of-life-pure-javascript-css-html/files/4082473/Bonus-Algorithms.1.pdf)
+
+![Screen Shot 2020-01-19 at 9 53 30 AM](https://user-images.githubusercontent.com/27693622/72678852-a7591400-3aa1-11ea-8bff-34c7c9427d41.png)
