@@ -7,7 +7,8 @@ If a cell is live, it stays alive in the next iteration.
 If a dead cell has two live cells adjacent to it, the dead cell changes state to live.
 
 The Game of Life is a great metaphor for real Life phenomena such as forest fires or flu transmission or even wealth distribution and land ownership. What is really striking is that the results are affected to a great extent by the start point. For instance:
-The glider always progresses in the same way 
+The glider always progresses in the same way
+
 ![glider](https://user-images.githubusercontent.com/27693622/72678779-ef2b6b80-3aa0-11ea-9875-888c87933bd9.png)
 
 as do others such as 10 line downwards (which makes quite nice images) and also the 3 in a row which always alternates between row and column.
